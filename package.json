@@ -1,0 +1,42 @@
+{
+  "name": "emerald-sun-chaser",
+  "version": "1.0.0",
+  "description": "Enables the automation of business processes, improving efficiency and accuracy in operations.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/emerald-sun-chaser"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "opal-sky-surveyor": "1.0.0",
+    "diamond-dust-creator": "1.0.0",
+    "passport": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "debug": "1.0.0",
+    "nodemon": "1.0.0",
+    "truffle": "1.0.0",
+    "cors": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "bcrypt": "1.0.0",
+    "moment": "1.0.0",
+    "multer": "1.0.0",
+    "body-parser": "1.0.0",
+    "axios": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "validator": "1.0.0",
+    "xml2js": "1.0.0",
+    "supertest": "1.0.0",
+    "web3-react": "1.0.0",
+    "enzyme": "1.0.0",
+    "ethers": "1.0.0",
+    "solc": "1.0.0",
+    "react-dom": "1.0.0"
+  }
+}
